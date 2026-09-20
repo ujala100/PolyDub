@@ -1,4 +1,4 @@
-#P Automated Video Dubbing System
+#Automated Video Dubbing System
 
 > **Turn any spoken-language YouTube video into a naturally voiced English version — while preserving the original video, timing, and conversational flow.**
 
